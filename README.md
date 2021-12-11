@@ -11,7 +11,7 @@ A Web application built using React, Redux & Deezer API.
 
 ## Get Started
 
-1. `git clone https://github.com/opeoyeleke/astro-player.git`
+1. `git clone https://github.com/ALBINPRAVEEN/Music-web-app.git`
 2. `cd astro-player`
 3. `npm install`
 4. `npm run start` (start development server)
